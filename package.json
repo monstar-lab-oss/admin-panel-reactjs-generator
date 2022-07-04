@@ -8,5 +8,8 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "author": "Esmaeil <esmaeil.abedi@monstar-lab.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yo": "^4.3.0"
+  }
 }

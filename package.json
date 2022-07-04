@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This repository can generate a base structure directory and sub directory with files for structure or component directory",
   "main": "index.js",
-  "repository": "git@github.com:monstar-lab-oss/admin-panel-reactjs-generator.git",
+  "repository": "https://github.com/monstar-lab-oss/admin-panel-reactjs-generator.git",
   "publishConfig": {
     "registry": "@monstar-lab-oss:https://npm.pkg.github.com/"
   },
